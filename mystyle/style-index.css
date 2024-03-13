@@ -1,0 +1,18 @@
+#main li
+{
+    list-style-type: none;
+    display: inline-block;
+    background-color: #2e6da4;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+#main li a
+{
+    text-decoration: none;
+    color: white;
+}
+#main li:hover
+{
+    background-color: #2e6dc3;;
+}
